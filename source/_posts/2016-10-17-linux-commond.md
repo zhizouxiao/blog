@@ -34,3 +34,14 @@ tar xvzf MyImages-14-09-12.tar.gz /home/MyImages
 tar cvjf MyImages-14-09-12.tar.gz /home/MyImages
 tar xvjf MyImages-14-09-12.tar.gz /home/MyImages
 ```
+
+#### 查找不包含的文件
+``` bash
+find . ! -name "*.2017_04_24" -type f
+```
+
+#### docker attach第一个container
+``` bash
+sudo docker attach `sudo docker ps |grep "day" | cut -d" " -f1`
+```
+

@@ -3,8 +3,7 @@ layout: post
 title: python入门
 date: 2016-06-06
 tags: 
-- 开发
-- 语言基础
+- python
 ---
 
 python是一个简单而强大的语言，应用领域非常广泛。因此，网上的优秀的入门教程非常多。
