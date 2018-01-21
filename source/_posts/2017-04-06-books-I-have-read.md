@@ -6,5 +6,6 @@ categories: books
 ---
 
 1. 2017-03-15 细雪 
-2. 2017-04-06 the start-up of you 
+2. 2017-04-06 the start-up of you   
+3. 2017-06-25 Just for Fun : The Story of an Accidental Revolutionary 
 
