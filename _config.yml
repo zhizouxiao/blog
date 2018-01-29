@@ -4,7 +4,7 @@
 
 # Site
 title: Eli's Notes
-subtitle:
+subtitle: lifelong learning
 description:
 author: Eli Wang
 language: zh-Hans
@@ -34,7 +34,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -74,12 +74,12 @@ deploy:
   message: "create blog"
 
 
-algolia:
-  applicationID: 'SJQWC5KD4B'
-  apiKey: '8d8c1e8e61ca91a88c49ae39d82c458c'
-  adminApiKey: '9ed1dbfb63b87a722606e9f297210e9d'
-  indexName: 'dev_apu'
-  chunkSize: 5000
+#algolia:
+  #applicationID: 'SJQWC5KD4B'
+  #apiKey: '8d8c1e8e61ca91a88c49ae39d82c458c'
+  #adminApiKey: '9ed1dbfb63b87a722606e9f297210e9d'
+  #indexName: 'dev_apu'
+  #chunkSize: 5000
 
 search:
   path: search.xml
